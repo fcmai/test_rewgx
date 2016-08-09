@@ -1,0 +1,7 @@
+D:\tmp\WindowsFormRegx\WindowsFormRegx\bin\Debug\WindowsFormRegx.exe
+D:\tmp\WindowsFormRegx\WindowsFormRegx\bin\Debug\WindowsFormRegx.pdb
+D:\tmp\WindowsFormRegx\WindowsFormRegx\obj\x86\Debug\WindowsFormRegx.Form1.resources
+D:\tmp\WindowsFormRegx\WindowsFormRegx\obj\x86\Debug\WindowsFormRegx.Properties.Resources.resources
+D:\tmp\WindowsFormRegx\WindowsFormRegx\obj\x86\Debug\WindowsFormRegx.csproj.GenerateResource.Cache
+D:\tmp\WindowsFormRegx\WindowsFormRegx\obj\x86\Debug\WindowsFormRegx.exe
+D:\tmp\WindowsFormRegx\WindowsFormRegx\obj\x86\Debug\WindowsFormRegx.pdb
